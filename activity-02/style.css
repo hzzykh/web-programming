@@ -1,0 +1,28 @@
+.low-stock{
+    color: red;
+}
+
+table{
+    border-radius: 5px;
+    width: 100%;
+    background-color: #86ca94;
+}
+
+th, td{
+    border: 1px solid #7f3c3c;
+    padding: 8px;
+    text-align: center;
+}
+
+th{
+    background-color: rgb(207, 192, 192) ;
+    color: #fff;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(70, 211, 211);
+}
+
+tr:hover{
+    background-color: #767fd6;
+}
